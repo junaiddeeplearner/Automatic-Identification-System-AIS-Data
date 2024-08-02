@@ -10,3 +10,8 @@ SPEED: The speed of the ship over the ground, measured in knots.
 HEADING: The direction in which the ship's bow is pointing, measured in degrees.
 Data Collection Period
 The data spans a period of three months, providing a comprehensive view of the movements and navigational patterns of the 20 ships included in the dataset.
+Getting Started
+To get started with analyzing the AIS data, follow these steps:
+
+Clone the repository:
+https://github.com/junaiddeeplearner/Automatic-Identification-System-AIS-Data.git
